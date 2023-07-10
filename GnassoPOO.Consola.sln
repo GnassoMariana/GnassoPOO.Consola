@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GnassoPOO.Consola", "GnassoPOO.Consola\GnassoPOO.Consola.csproj", "{A6D2639F-47AB-425D-9B60-24630ED2B176}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GnassoPOO.Entidades", "GnassoPOO.Entidades\GnassoPOO.Entidades.csproj", "{A7F9A3DE-5EE6-4931-B731-AABF8892EEAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6D2639F-47AB-425D-9B60-24630ED2B176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D2639F-47AB-425D-9B60-24630ED2B176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6D2639F-47AB-425D-9B60-24630ED2B176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6D2639F-47AB-425D-9B60-24630ED2B176}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7F9A3DE-5EE6-4931-B731-AABF8892EEAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F9A3DE-5EE6-4931-B731-AABF8892EEAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F9A3DE-5EE6-4931-B731-AABF8892EEAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F9A3DE-5EE6-4931-B731-AABF8892EEAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2290585F-AD39-4198-ADC6-43E4F1E90E10}
+	EndGlobalSection
+EndGlobal
